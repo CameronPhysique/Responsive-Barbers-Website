@@ -315,7 +315,7 @@ h1 {
 
 .footer .btn.btn-link:hover {
     color: var(--primary);
-    letter-spacing: 1px;
+    letter-spacing: 3px;
     box-shadow: none;
 }
 
